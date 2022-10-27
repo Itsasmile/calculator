@@ -6,7 +6,7 @@ using namespace std;
 double calculation(double x, char operand, double y)
 {
 	//Different calculator cases
-	//testing
+
 	switch (operand)
 	{
 	case '+':
